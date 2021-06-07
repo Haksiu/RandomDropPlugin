@@ -1,5 +1,0 @@
-name: RandomBlockDrop-Private
-version: ${project.version}
-main: com.h4ks1u.rbdprivate.Main
-api-version: 1.16
-authors: [ H4ks1u ]
